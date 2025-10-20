@@ -1,4 +1,4 @@
-# EIGENVALUES-AND-EIGENVECTORS
+# EX4-EIGENVALUES-AND-EIGENVECTORS
 ## AIM:
 To write a python program to find the Eigenvalues and Eigen Vectors
 ## EQUIPMENT'S REQUIRED:
